@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dashboard-webpart-client-side-solution",
+    "id": "1bf80fe5-a1a0-446a-81a6-d622f86b0b25",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/dashboard-webpart.sppkg"
+  }
+}
